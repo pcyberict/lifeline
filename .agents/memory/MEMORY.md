@@ -1,0 +1,1 @@
+- [Landing page reference](landing-page-reference.md) — match the user's actual public site; don't infer its design from project metadata alone.
